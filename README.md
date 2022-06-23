@@ -116,3 +116,7 @@ Jonah Lawrence - Web Development
 Sonny Sangha - Full Stack Development
 
 [https://www.youtube.com/c/SonnySangha](https://www.youtube.com/c/SonnySangha)
+
+Tiff in Tech - Software Development
+
+[https://www.youtube.com/c/TiffInTech](https://www.youtube.com/c/TiffInTech)
