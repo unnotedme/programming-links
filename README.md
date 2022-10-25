@@ -83,6 +83,22 @@ Stackedit - markdown editor
 
 [https://stackedit.io/](https://stackedit.io/)
 
+Responsively - devTool that will make your job with responsivity easier
+
+[https://responsively.app/](https://responsively.app/)
+
+Codepen - online editor
+
+[https://codepen.io/](https://codepen.io/)
+
+CodeSandbox - online editor
+
+[https://codesandbox.io/](https://codesandbox.io/)
+
+Stackblitz - an online development environment for frontend, Node.js and the JavaScript ecosystem
+
+[https://stackblitz.com/](https://stackblitz.com/)
+
 ## Youtube Channels
 
 Web Dev Simplified - Web Development
@@ -120,3 +136,7 @@ Sonny Sangha - Full Stack Development
 Tiff in Tech - Software Development
 
 [https://www.youtube.com/c/TiffInTech](https://www.youtube.com/c/TiffInTech)
+
+Dev as lif - Software Development wih VI environment
+
+[https://www.youtube.com/c/devaslife](https://www.youtube.com/c/devaslife)
