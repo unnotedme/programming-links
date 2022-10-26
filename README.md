@@ -99,6 +99,14 @@ Stackblitz - an online development environment for frontend, Node.js and the Jav
 
 [https://stackblitz.com/](https://stackblitz.com/)
 
+Postman - Edit, Save, Send, Share, Test... Do basically anything with HTTP requests to APIs
+
+[https://www.postman.com](https://www.postman.com)
+
+Fiddler Classic - Sniff traffic on your machine to capture HTTP requests being sent by applications
+
+[https://www.telerik.com/fiddler/fiddler-classic](https://www.telerik.com/fiddler/fiddler-classic)
+
 ## Youtube Channels
 
 Web Dev Simplified - Web Development
